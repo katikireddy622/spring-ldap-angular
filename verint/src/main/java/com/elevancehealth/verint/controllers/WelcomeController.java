@@ -17,4 +17,5 @@ public class WelcomeController {
     public String welcomeMessage(){
         return "Welcome to verint";
     }
+
 }
